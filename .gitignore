@@ -1,0 +1,4 @@
+node_modules
+./src/temp.js
+./src/booksDummy.js
+./src/criteria.txt
